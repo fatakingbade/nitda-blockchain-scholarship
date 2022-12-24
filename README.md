@@ -1,0 +1,2 @@
+# nitda-blockchain-scholarship
+Mine
